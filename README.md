@@ -1,10 +1,6 @@
 # Ex-03-Linux-Commands
-
-Name: NETHRAA J
-
-Reg. No.: 212222100031
-
-
+NAME:KEERTHIKA M P
+REG:212223240071
 ## Aim:
 
 To study the execution of various Linux operating system commands.
